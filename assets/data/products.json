@@ -1,0 +1,103 @@
+[
+  {
+    "brand": "ikea",
+    "isFeatured": true,
+    "_id": {
+      "$oid": "6261155cc41f2ae4a241c76e"
+    },
+    "name": "PS5",
+    "description": "good booy ting",
+    "richDescription": "Dam bad bitches",
+    "image": "https://images.unsplash.com/photo-1650387237954-a9c0d10d2a62?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "images": [],
+    "price": 900,
+    "category": {
+      "$oid": "6261663184f0f3f60f7df4c2"
+    },
+    "countInStock": 2,
+    "rating": 2,
+    "numReviews": 22,
+    "__v": 0
+  },
+  {
+    "brand": "hp",
+    "isFeatured": true,
+    "_id": {
+      "$oid": "6261155eer1f2ae4a241c76e"
+    },
+    "name": "Notebook hp",
+    "description": "pro man",
+    "richDescription": "Dam bad bitches",
+    "image": "https://images.unsplash.com/photo-1650339157261-649383f49fba?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MTh8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "images": [],
+    "price": 900,
+    "category": {
+      "$oid": "6261663184f0f3f60f7df4c2"
+    },
+    "countInStock": 2,
+    "rating": 2,
+    "numReviews": 13,
+    "__v": 1
+  },
+
+  {
+    "brand": "cooker",
+    "isFeatured": true,
+    "_id": {
+      "$oid": "6261155eer1f2oe4a241c76e"
+    },
+    "name": "Cooker",
+    "description": "gas",
+    "richDescription": "Dam bad bitches",
+    "image": "https://images.unsplash.com/photo-1650381288051-9aece1b804bb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "images": [],
+    "price": 900,
+    "category": {
+      "$oid": "6261663184f0f3f60f7df4c2"
+    },
+    "countInStock": 2,
+    "rating": 2,
+    "numReviews": 13,
+    "__v": 3
+  },
+  {
+    "brand": "cooker",
+    "isFeatured": true,
+    "_id": {
+      "$oid": "6261155eer1p2oe4a241c76e"
+    },
+    "name": "Fucker",
+    "description": "gas",
+    "richDescription": "Dam bad bitches",
+    "image": "https://images.unsplash.com/photo-1650348982662-832fcfbb0d02?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8NTh8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "images": [],
+    "price": 900,
+    "category": {
+      "$oid": "6261663184f0f3f60f7df4c2"
+    },
+    "countInStock": 2,
+    "rating": 2,
+    "numReviews": 13,
+    "__v": 3
+  },
+  {
+    "brand": "goody",
+    "isFeatured": true,
+    "_id": {
+      "$oid": "6261855eer1p2oe4a241c76e"
+    },
+    "name": "june",
+    "description": "rttr",
+    "richDescription": "Dam bad bitches",
+    "image": "https://images.unsplash.com/photo-1650454390535-6c90d8afaf83?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8NjJ8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "images": [],
+    "price": 900,
+    "category": {
+      "$oid": "6261663984f0f3f60f7df4c2"
+    },
+    "countInStock": 2,
+    "rating": 2,
+    "numReviews": 13,
+    "__v": 0
+  }
+]
